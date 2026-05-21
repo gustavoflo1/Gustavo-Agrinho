@@ -1,3 +1,12 @@
 header{
-    background-color: azure;
+    background-color: rgb(29, 153, 29);
+    text-align: center
+}
+
+main{
+    text-align: right;
+}
+#img-agro{
+    width: 500px
+    
 }
